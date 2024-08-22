@@ -3,7 +3,7 @@
 [Link : 25\_+_5_timer-react](https://twentyfive-plus-five-timer-react-fcc.netlify.app/)
 
  <div align="center">
-   <img src="/screencapture.png" width="300" height="300"/> 
+   <img src="/screen.png" width="400" height="500"/> 
  </div>
 
 ## React + Vite
